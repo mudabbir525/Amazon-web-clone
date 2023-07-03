@@ -33,15 +33,16 @@ This repository contains the frontend code for an Amazon clone website developed
 
 # Amazon's clone looks like this
 
-### Screenshot - 1
+##  Screenshot - 1
 ![ss1](https://github.com/mudabbir525/Amazon-web-clone/assets/116947092/198880d0-6923-45c8-93bd-5754117f67e1)
 
 <br>
-### Screenshot - 2
+##  Screenshot - 2
 
 ![ss2](https://github.com/mudabbir525/Amazon-web-clone/assets/116947092/a97521b3-04f0-4090-a19f-bc287507b829)
 
 <br>
-### Screenshot - 3
+
+## Screenshot - 3
 
 ![ss3](https://github.com/mudabbir525/Amazon-web-clone/assets/116947092/c1709c87-234b-499b-95fa-d3a10bc63431)
