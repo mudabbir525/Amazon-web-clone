@@ -19,10 +19,6 @@ Contributions to this project are welcome. If you would like to contribute, plea
 The website can be accessed by cloning the repository and opening the index.html file in a web browser.
 
 
-<br>
-
-## Time taken to finish this project
-- 4 hours to Complete it.
 
 <br>
 
